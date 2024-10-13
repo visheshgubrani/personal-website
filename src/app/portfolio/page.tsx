@@ -3,7 +3,7 @@
 import Image from "next/image"
 import { Github } from "lucide-react"
 
-export function PortfolioSectionComponent() {
+function PortfolioSectionComponent() {
   const works = [
     {
       title: "Inkdrop",
@@ -75,3 +75,5 @@ export function PortfolioSectionComponent() {
     </section>
   )
 }
+
+export default PortfolioSectionComponent

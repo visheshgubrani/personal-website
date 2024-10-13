@@ -12,7 +12,7 @@ export function NavbarComponent() {
   const navItems = [
     { name: "Home", path: "/" },
     { name: "Portfolio", path: "/portfolio" },
-    { name: "Blog", path: "/blog" },
+    { name: "Blog", path: "https://medium.com/@visheshgubrani" },
   ]
 
   return (
@@ -35,7 +35,7 @@ export function NavbarComponent() {
               </Link>
             ))}
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/visheshgubrani"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-teal-400 transition-colors"
@@ -69,7 +69,7 @@ export function NavbarComponent() {
               </Link>
             ))}
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/visheshgubrani"
               target="_blank"
               rel="noopener noreferrer"
               className="block px-3 py-2 rounded-md text-base font-medium hover:text-teal-400 transition-colors"
