@@ -10,7 +10,7 @@ const Homepage = () => {
         <header className="mb-12">
           <div className="bg-gray-800 p-6 rounded-lg mb-6 shadow-lg">
             <p className="text-lg">
-              Hello, I'm an indie app developer based in{" "}
+              Hello, I&apos;m an indie app developer based in{" "}
               <span className="text-teal-400">[India]</span>!
             </p>
           </div>
@@ -25,13 +25,13 @@ const Homepage = () => {
         <section className="mb-12">
           <h2 className="text-2xl font-bold text-white mb-4">Work</h2>
           <p className="mb-6 text-lg leading-relaxed">
-            I'm Vishesh, a DevOps Engineer based in{"  "}
+            I&apos;m Vishesh, a DevOps Engineer based in{"  "}
             <span className="text-teal-400">[India] </span>
             with a passion for building digital solutions. I have expertise in
             launching products, from design and planning to solving real-life
             challenges with code. When offline, I enjoy working out and
-            listening to songs. Currently, I'm building my own product called{" "}
-            <span className="text-teal-400">[Jira]</span>.
+            listening to songs. Currently, I&apos;m building my own product
+            called <span className="text-teal-400">[Jira]</span>.
           </p>
           <Link
             href="/portfolio"
@@ -57,7 +57,7 @@ const Homepage = () => {
             <div className="flex space-x-4">
               <span className="text-teal-400 font-semibold">2025</span>
               <span>
-                Completed the Master's Program in the Computer Science
+                Completed the Master&apos;s Program in the Computer Science
               </span>
             </div>
           </div>
@@ -66,7 +66,7 @@ const Homepage = () => {
         <section className="mb-12">
           <h2 className="text-3xl font-bold text-white mb-4">I ♥</h2>
           <p className="text-lg">
-            Art, Music, Drawing, Cooking, Photography, Working Out, DevOps
+            DevOps, Art, Music, Cooking, Machine Learning
           </p>
         </section>
 
