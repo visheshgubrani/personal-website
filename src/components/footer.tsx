@@ -1,9 +1,9 @@
-"use client"
+'use client'
 
 export function FooterComponent() {
   return (
-    <footer className="bg-gray-900 text-white py-8">
-      <div className="max-w-6xl mx-auto px-4 text-center">
+    <footer className='bg-gray-900 text-white py-8'>
+      <div className='max-w-6xl mx-auto px-4 text-center'>
         <p>
           &copy; {new Date().getFullYear()} Vishesh Gubrani. All rights
           reserved.
