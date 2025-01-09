@@ -27,7 +27,7 @@ function PortfolioSectionComponent() {
         'A fully serverless resume website deployed on AWS, showcasing cloud architecture skills and CI/CD practices.',
       image: '/images/cloud-resume.jpg',
       github: 'https://github.com/visheshgubrani/cloud-resume-challenge',
-      live: 'https://resume.visheshgubrani.com',
+      live: 'https://github.com/visheshgubrani/cloud-resume-challenge',
     },
     {
       title: 'Three tier Deployment',
@@ -35,7 +35,7 @@ function PortfolioSectionComponent() {
         'A comprehensive three-tier application deployed on Amazon EKS. Demonstrates containerization, orchestration, and CI/CD pipeline integration.',
       image: '/images/todo-app.jpg',
       github: 'https://github.com/visheshgubrani/3-tier-deployment',
-      live: 'https://todo.visheshgubrani.com',
+      live: 'https://github.com/visheshgubrani/3-tier-deployment',
     },
   ]
 

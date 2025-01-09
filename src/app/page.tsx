@@ -31,7 +31,7 @@ const Homepage = () => {
             launching products, from design and planning to solving real-life
             challenges with code. When offline, I enjoy working out and
             listening to songs. Currently, I&apos;m building my own product
-            called <span className='text-teal-400'>[Jira]</span>.
+            called <span className='text-teal-400'>[SubManager]</span>.
           </p>
           <Link
             href='/portfolio'
@@ -66,7 +66,7 @@ const Homepage = () => {
         <section className='mb-12'>
           <h2 className='text-3xl font-bold text-white mb-4'>I ♥</h2>
           <p className='text-lg'>
-            DevOps, Art, Music, Cooking, Machine Learning
+            Art, Music, Cooking, Cloud, Machine Learning
           </p>
         </section>
 
